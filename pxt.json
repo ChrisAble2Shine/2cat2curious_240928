@@ -2,7 +2,8 @@
     "name": "2cat2curious_240928",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "animation": "*"
     },
     "files": [
         "main.blocks",
